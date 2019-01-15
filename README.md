@@ -223,3 +223,219 @@ http://sspitv.liss.fun:8880/46k5udbgrs/bxg5qcvunj/13706
 http://sspitv.liss.fun:8880/46k5udbgrs/bxg5qcvunj/7455
 #EXTINF:-1 tvg-id="Discovery Home Health" tvg-name="Discovery Home Health" tvg-logo="http://listaccess.me/Logo/DiscoveryH&H1.png" group-title="Canais: Documentários",Discovery Home Health
 http://sspitv.liss.fun:8880/46k5udbgrs/bxg5qcvunj/
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 1
+https://www.branimes.com/videozin/video-play.mp4/?contentId=OWdkeWdtNFVINkQzM0k0ci9aT2wyU1lYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 2
+https://www.branimes.com/videozin/video-play.mp4/?contentId=ejZwaVphM3JVTi9ZYzM5Yjd1NXNCQ1lYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 3
+https://www.branimes.com/videozin/video-play.mp4/?contentId=Qk5aSGVvVkRFeGFqVVFkdVBPcEZyU1lYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 4
+https://www.branimes.com/videozin/video-play.mp4/?contentId=NWpYRmJmZVNjeHJSZmRtVkFNL0plaVlYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 5
+https://www.branimes.com/videozin/video-play.mp4/?contentId=ZFZnQUtubHZCb3B1VHNyMmpNVXM5eVlYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 6
+https://www.branimes.com/videozin/video-play.mp4/?contentId=cVNHUFE4ODd6V012OG5NTXZIaUp6aVlYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 7
+https://www.branimes.com/videozin/video-play.mp4/?contentId=S2M1RDdWdDFHNEtxSHQwOXh5dFhNeVlYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 8
+https://www.branimes.com/videozin/video-play.mp4/?contentId=UWVXL25EdjExcTRoZXZrWlBiVklSaVlYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 9
+https://www.branimes.com/videozin/video-play.mp4/?contentId=eHRvN2xBYVN0UUFNVjFDZWYxSUZhaVlYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 10
+https://www.branimes.com/videozin/video-play.mp4/?contentId=Q0kzY2hEMVhlKzdnNkExVnpwejVPU1lYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 11
+https://www.branimes.com/videozin/video-play.mp4/?contentId=dVFzQ3lWeVUzWFluUlVNdnNtUWw0aVlYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 12
+https://www.branimes.com/videozin/video-play.mp4/?contentId=RE85bE5mTzhVUTVGM0c5S2VmSFJSU1lYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 13
+https://www.branimes.com/videozin/video-play.mp4/?contentId=ODFoUE5rbklBeFBTeGw2SHJpQk5HeVlYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 14
+https://www.branimes.com/videozin/video-play.mp4/?contentId=dkpQL2hib2hiUm1iTUZ0Ylp1V216U1lYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 15
+https://www.branimes.com/videozin/video-play.mp4/?contentId=WVBjMTlCWmdzOWljVFlrT1d3aEhEZz09
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 16
+https://www.branimes.com/videozin/video-play.mp4/?contentId=Y2xnNncvc2xOMmxzMkRJU0NKZ3duU1lYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 17
+https://www.branimes.com/videozin/video-play.mp4/?contentId=Nnp3KzhPL1JRaUMwMWVPeG9ZYktreVlYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 18
+https://www.branimes.com/videozin/video-play.mp4/?contentId=TE4wVHFpWWRJYVlJN3dyL3dXLy9lU1lYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 19
+https://www.branimes.com/videozin/video-play.mp4/?contentId=S1VlQ2YyWjM5akE3bmF2Y1l3OG9peVlYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 20
+https://www.branimes.com/videozin/video-play.mp4/?contentId=eUIxbVhzSnZjUWhOem9OMkpacGM2Q1lYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 21
+https://www.branimes.com/videozin/video-play.mp4/?contentId=cG1yWXRPSXlKZ2ptZzhaK1BKNG9WaVlYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 22
+https://www.branimes.com/videozin/video-play.mp4/?contentId=cXl4RDg4Y3Y4cm1qMFJYUys0L0wraVlYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 23
+https://www.branimes.com/videozin/video-play.mp4/?contentId=N1hVejRJTWJURCs3K29aK3d2a2xFU1lYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 24
+https://www.branimes.com/videozin/video-play.mp4/?contentId=WWViMUFIVTJaaDluRDFQYzFDUGxjaVlYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 25
+https://www.branimes.com/videozin/video-play.mp4/?contentId=ckV2b0Z0MTBvbTFITmpMMkE5R3YraVlYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 26
+https://www.branimes.com/videozin/video-play.mp4/?contentId=UWtiSEJrMHFZc1ZFZVJwZmhoazlMQ1lYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 27
+https://www.branimes.com/videozin/video-play.mp4/?contentId=bmtuanlwb2ZVN05ydkszWndBclBPQ1lYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 28
+https://www.branimes.com/videozin/video-play.mp4/?contentId=L2dBV0dEdHVKbWwyd09xd1NXeVBYU1lYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 29
+https://www.branimes.com/videozin/video-play.mp4/?contentId=YVg5SVpwb3A0UlBSTGpHeTB6QmJHaVlYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 30
+https://www.branimes.com/videozin/video-play.mp4/?contentId=SE9YOVBaLzFNSU5xMDhCRUVWQ3g4Q1lYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 31
+https://www.branimes.com/videozin/video-play.mp4/?contentId=bkFVNHBIY3YwWmttTHUrWVN0bFRiaVlYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 32
+https://www.branimes.com/videozin/video-play.mp4/?contentId=dHA2dlR1SVF2UDlsN0VQbTlUZ1Y0Q1lYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 33
+https://www.branimes.com/videozin/video-play.mp4/?contentId=UEpsVWlLVGU0Y0kzM3hSRStLbXE0U1lYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 34
+https://www.branimes.com/videozin/video-play.mp4/?contentId=OGN5ZUQ3V3hhOUI0QmhldzdjUjQ3U1lYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 35
+https://www.branimes.com/videozin/video-play.mp4/?contentId=VnZ1VndQRXVCRExnd2hPci9YVkg2Q1lYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qw3iozWM7pI/hqdefault.jpg" group-title="Os Impossíveis", Episódio 36
+https://www.branimes.com/videozin/video-play.mp4/?contentId=SmcxQklqYUVudDYwK09GRHJsL1VOQ1lYWmZCeW05Y3ZLUk5JbzVCaTU4Zz0=
+
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 01
+http://www.blogger.com/video-play.mp4?contentId=e84533815dfde25b
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 02
+http://www.blogger.com/video-play.mp4?contentId=e073a97365930be4
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 03
+http://www.blogger.com/video-play.mp4?contentId=151ab3da38513087
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 04
+http://www.blogger.com/video-play.mp4?contentId=1fa74882d34d78e5
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 05
+http://www.blogger.com/video-play.mp4?contentId=c738f33b73819030
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 06
+http://www.blogger.com/video-play.mp4?contentId=8e8de4179352d17c
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 07
+http://www.blogger.com/video-play.mp4?contentId=205342ce630bef77
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 08
+http://www.blogger.com/video-play.mp4?contentId=7d2cb23dccc9835f
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 09
+http://www.blogger.com/video-play.mp4?contentId=7e91217ceeea231b
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 10
+http://www.blogger.com/video-play.mp4?contentId=b0a268b972233164
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 11
+http://www.blogger.com/video-play.mp4?contentId=80edb954ff567d8
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 12
+http://www.blogger.com/video-play.mp4?contentId=d8946ff50ffeb6f4
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 13
+http://www.blogger.com/video-play.mp4?contentId=57de0771b971256f
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 14
+http://www.blogger.com/video-play.mp4?contentId=de531796acd10d8
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 15
+http://www.blogger.com/video-play.mp4?contentId=8dc0204f3af8ace4
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 16
+http://www.blogger.com/video-play.mp4?contentId=f88dbdd2cdd2fa14
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 17
+http://www.blogger.com/video-play.mp4?contentId=e4cdac6e43b232f5
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 18
+http://www.blogger.com/video-play.mp4?contentId=52cdf80e5cca0a0d
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 19
+http://www.blogger.com/video-play.mp4?contentId=bba7e9d8bac99584
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 20
+http://www.blogger.com/video-play.mp4?contentId=6e66d02625b8b1ba
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 21
+http://www.blogger.com/video-play.mp4?contentId=3b63ce23c223a43d
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 22
+http://www.blogger.com/video-play.mp4?contentId=e78004d6dd6d35ce
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 23
+http://www.blogger.com/video-play.mp4?contentId=d410b849217507e9
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 24
+http://www.blogger.com/video-play.mp4?contentId=c5e70cb54ae07949
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 25
+http://www.blogger.com/video-play.mp4?contentId=4b4cd36d8371395a
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 26
+http://www.blogger.com/video-play.mp4?contentId=2c0afe97cb23758d
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 27
+http://www.blogger.com/video-play.mp4?contentId=49301bcf68ae0a70
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 28
+http://www.blogger.com/video-play.mp4?contentId=b547e3dc04793c5b
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 29
+http://www.blogger.com/video-play.mp4?contentId=5fad48f225e63572
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 30
+http://www.blogger.com/video-play.mp4?contentId=c5368cb9945b1d1e
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 31
+http://www.blogger.com/video-play.mp4?contentId=aaf241407cc7c628
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 32
+http://www.blogger.com/video-play.mp4?contentId=f0d0f458ca2e7813
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 33
+http://www.blogger.com/video-play.mp4?contentId=d97f4c6a15b05e8b
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 34
+http://www.blogger.com/video-play.mp4?contentId=5dbadd9b52039860
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 35
+http://www.blogger.com/video-play.mp4?contentId=e808b2bab6d83a31
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 36
+http://www.blogger.com/video-play.mp4?contentId=60d5bd394b98e954
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 37
+http://www.blogger.com/video-play.mp4?contentId=13850b6e9e4bce1c
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 38
+http://www.blogger.com/video-play.mp4?contentId=9517fbb43f656722
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 39
+http://www.blogger.com/video-play.mp4?contentId=a6a311a897804ca6
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 40
+http://www.blogger.com/video-play.mp4?contentId=ba2eec1e955c3239
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 41
+http://www.blogger.com/video-play.mp4?contentId=788528094d7bc87a
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 42
+http://www.blogger.com/video-play.mp4?contentId=679ffdae2f825e63
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 43
+http://www.blogger.com/video-play.mp4?contentId=1b115b48fd9dc587
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 44
+http://www.blogger.com/video-play.mp4?contentId=65ac22e4da701ef6
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 45
+http://www.blogger.com/video-play.mp4?contentId=b33adeb7d62ada44
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 46
+http://www.blogger.com/video-play.mp4?contentId=e2275edb24f2bb6f
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 47
+http://www.blogger.com/video-play.mp4?contentId=45504355e53ff597
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 48
+http://www.blogger.com/video-play.mp4?contentId=16aa02e77dcbe5b6
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 49
+http://www.blogger.com/video-play.mp4?contentId=82a1d5b088c83cc5
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 50
+http://www.blogger.com/video-play.mp4?contentId=bb8b571f3f3b497c
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 51
+http://www.blogger.com/video-play.mp4?contentId=4579825f26d1176
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 52
+http://www.blogger.com/video-play.mp4?contentId=b7f191ff4e09d62e
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 53
+http://www.blogger.com/video-play.mp4?contentId=daf4c012d7ff1db9
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 54
+http://www.blogger.com/video-play.mp4?contentId=f12fd8819f8681c1
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 55
+http://www.blogger.com/video-play.mp4?contentId=5603738eb754fb64
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 56
+http://www.blogger.com/video-play.mp4?contentId=fcfa530dfeecfcbb
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 57
+http://www.blogger.com/video-play.mp4?contentId=11527e7549dc3b27
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 58
+http://www.blogger.com/video-play.mp4?contentId=a09db05e54947304
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 59
+http://www.blogger.com/video-play.mp4?contentId=8ea8f72691c5f01
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 60
+http://www.blogger.com/video-play.mp4?contentId=6161ee810a47732a
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 61
+http://www.blogger.com/video-play.mp4?contentId=be6dd82796c909b8
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 62
+http://www.blogger.com/video-play.mp4?contentId=e9fdeccdf1e6b061
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 63
+http://www.blogger.com/video-play.mp4?contentId=217930fc06d85eb6
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 64
+http://www.blogger.com/video-play.mp4?contentId=4fee6bdc9223b3a0
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 65
+http://www.blogger.com/video-play.mp4?contentId=c625817f99faeb24
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 66
+http://www.blogger.com/video-play.mp4?contentId=de6a7e381abc9ae1
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 67
+http://www.blogger.com/video-play.mp4?contentId=8dfc2d27220a13d8
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 68
+http://www.blogger.com/video-play.mp4?contentId=de86e81e73845a05
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 69
+http://www.blogger.com/video-play.mp4?contentId=c8b387a74b1c7257
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 70
+http://www.blogger.com/video-play.mp4?contentId=67f59b535e87cd42
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jerry", Episódio 71
+http://www.blogger.com/video-play.mp4?contentId=5b9330c671d0f4b7
+#EXTINF:-1 tvg-logo="http://www.animesfusion.org/img/desenhos/2015/12-T/Tom-e-Jeery.jpg" group-title="Tom & Jerry", pltv-subgroup="Tom & Jer
